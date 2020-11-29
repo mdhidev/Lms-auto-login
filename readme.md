@@ -1,6 +1,6 @@
-#Lms-python-auto-login
+# Lms-python-auto-login
 
-##install guide:
+## install guide
 
 clone project
 
