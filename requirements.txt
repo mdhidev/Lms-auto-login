@@ -1,0 +1,6 @@
+requests
+configparser
+pytesseract
+selenium
+pillow
+numpy
