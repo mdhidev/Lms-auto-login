@@ -1,4 +1,4 @@
-# Lms-python-auto-login
+# Lms python auto login
 
 ## install guide
 
